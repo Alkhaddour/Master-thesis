@@ -1,0 +1,14 @@
+data/AudioSet/raw/
+data/AudioSet/splits/
+data/AudioSet/splits_PCA/*.pkl
+data/ESC-50/*/
+*/__pycache__/
+outputs/
+*_trash
+*.csv
+./*.csv
+*.pkl
+*.wav
+*.txt
+*.pth
+*.ipynb_checkpoints
